@@ -1,0 +1,2 @@
+file:src/main/resources/Features/F7_HomeSilder.feature:3:8
+file:src/main/resources/Features/F8_FollowUs.feature:9

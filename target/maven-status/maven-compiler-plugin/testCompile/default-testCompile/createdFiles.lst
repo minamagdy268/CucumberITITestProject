@@ -1,0 +1,14 @@
+org\example\StepDefn\Hooks.class
+org\example\StepDefn\SD7_SliderStepDefn.class
+org\example\StepDefn\SD8_FollowStepDefn.class
+org\example\pages\Pg1_Register.class
+org\example\StepDefn\SD6_HoverCatStepDefn.class
+org\example\StepDefn\SD2_LoginStepDefn.class
+org\example\pages\Pg3_HomePage.class
+org\example\StepDefn\SD3_ResetStepDefn.class
+org\example\pages\Pg2_Login.class
+org\example\StepDefn\SD5_CurrencyStepDefn.class
+org\example\testRunner\runners.class
+org\example\StepDefn\SD1_RegisterStepDefn.class
+org\example\StepDefn\SD9_WishlistStepDefn.class
+org\example\StepDefn\SD4_SearchStepDefn.class
